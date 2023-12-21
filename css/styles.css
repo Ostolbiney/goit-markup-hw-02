@@ -1,5 +1,5 @@
-.body {
-  font-family: Roboto, sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
@@ -70,6 +70,10 @@ ol {
 .hero {
   background: #2e2f42;
 }
+.hero:hover,
+.hero:focus {
+  color: #404bbf;
+}
 .hero-title {
   color: #fff;
   text-align: center;
@@ -77,6 +81,10 @@ ol {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+}
+.hero-title:hover,
+.hero-title:focus {
+  color: #404bbf;
 }
 .hero-btn {
   color: #fff;
