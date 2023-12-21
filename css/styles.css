@@ -1,7 +1,7 @@
 .body {
   font-family: Roboto, sans-serif;
   color: #434455;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 a {
   text-decoration: none;
@@ -30,8 +30,8 @@ ol {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1, 17;
-  letter-spacing: 0, 03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   cursor: pointer;
 }
@@ -42,8 +42,8 @@ ol {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1, 5;
-  letter-spacing: 0, 02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   cursor: pointer;
 }
 .nav-link:hover,
@@ -56,8 +56,8 @@ ol {
 .address-link {
   color: #434455;
   font-size: 16px;
-  line-height: 1, 5;
-  letter-spacing: 0, 02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   cursor: pointer;
 }
 .address-link:hover,
@@ -75,23 +75,28 @@ ol {
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 1, 07;
-  letter-spacing: 0, 02em;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 .hero-btn {
   color: #fff;
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  background-color: #4d5ae5;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #404bbf;
 }
 
 /**-------features------**/
 
 .features {
-  background: #fff;
+  background-color: #ffffff;
 }
 .features-list {
 }
@@ -101,15 +106,15 @@ ol {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1, 2;
-  letter-spacing: 0, 02em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .features-item-text {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1, 5;
-  letter-spacing: 0, 02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /**-------team------**/
@@ -122,8 +127,8 @@ ol {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1, 11;
-  letter-spacing: 0, 02em;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .team-list {
@@ -135,15 +140,15 @@ ol {
   text-align: center;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1, 2;
-  letter-spacing: 0, 02em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .team-text {
   color: #434455;
   text-align: center;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
@@ -160,15 +165,15 @@ ol {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1, 2;
-  letter-spacing: 0, 02em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .portfolio-text {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1, 5;
-  letter-spacing: 0, 02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /**-------footer------**/
@@ -181,8 +186,8 @@ ol {
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1, 17;
-  letter-spacing: 0, 03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   cursor: pointer;
 }
@@ -193,6 +198,6 @@ ol {
   color: #f4f4fd;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1, 5;
-  letter-spacing: 0, 02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
