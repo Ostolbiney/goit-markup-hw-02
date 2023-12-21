@@ -70,10 +70,7 @@ ol {
 .hero {
   background: #2e2f42;
 }
-.hero:hover,
-.hero:focus {
-  color: #404bbf;
-}
+
 .hero-title {
   color: #fff;
   text-align: center;
@@ -81,10 +78,6 @@ ol {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-}
-.hero-title:hover,
-.hero-title:focus {
-  color: #404bbf;
 }
 .hero-btn {
   color: #fff;
@@ -98,7 +91,7 @@ ol {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 /**-------features------**/
@@ -163,7 +156,7 @@ ol {
 /**-------portfolio------**/
 
 .portfolio {
-  background: #fff;
+  background-color: #ffffff;
 }
 .portfolio-list {
 }
