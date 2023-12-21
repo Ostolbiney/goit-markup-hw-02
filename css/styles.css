@@ -79,6 +79,7 @@ ol {
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
+
 .hero-btn {
   color: #fff;
   font-family: Roboto, sans-serif;
@@ -91,7 +92,7 @@ ol {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 /**-------features------**/
@@ -156,7 +157,7 @@ ol {
 /**-------portfolio------**/
 
 .portfolio {
-  background-color: #ffffff;
+  background: #fff;
 }
 .portfolio-list {
 }
