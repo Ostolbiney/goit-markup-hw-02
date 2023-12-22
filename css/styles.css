@@ -119,7 +119,7 @@ ol {
 /**-------team------**/
 
 .team {
-  background-color: #ffffff;
+  background: #f4f4fd;
 }
 .team-title {
   color: #2e2f42;
@@ -154,7 +154,7 @@ ol {
 /**-------portfolio------**/
 
 .portfolio {
-  background: #fff;
+  background-color: #ffffff;
 }
 .portfolio-list {
 }
